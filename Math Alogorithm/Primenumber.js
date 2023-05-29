@@ -20,3 +20,5 @@
 //    i < Math.sqrt(n)
 
 // because Integers larger then the sqrt do not need to checkedd
+
+// for this Big-O = O(sqrt(n))
